@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+outputs/
+*.zip
+*.h5
+*.keras
+
+.env
+.DS_Store
